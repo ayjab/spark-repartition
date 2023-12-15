@@ -1,0 +1,2 @@
+
+The goal of this school project was to find a method for determining the connected components of a graph. Then, to replicate the same work on a partitioned graph (initially with 2 partitions), and then with multiple partitions on real data while parallelizing the processing using Spark tools. The last two exercises were more like open-ended questions to be addressed after completing the first three.
